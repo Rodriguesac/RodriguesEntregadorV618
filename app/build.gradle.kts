@@ -12,8 +12,8 @@ android {
         applicationId = "br.com.rodrigues.entregador"
         minSdk = 26
         targetSdk = 35
-        versionCode = 62101
-        versionName = "6.21.1-kotlin-foco"
+        versionCode = 62102
+        versionName = "6.21.3-corrige-build"
     }
 
     buildTypes {
