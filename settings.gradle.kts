@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "RodriguesEntregadorNativo"
+rootProject.name = "RodriguesEntregador"
 include(":app")
